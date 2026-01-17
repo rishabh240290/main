@@ -3,10 +3,11 @@ build:
 accounts:
   message: "Welcome to India"
   contactDetails:
-    name: "Rishabh Mathur123"
+    name: "Rishabh Mathur"
     email: "rishabh.mathur@oracle.com"
   onCallSupport:
     -(5551) 234324
     -(3332) 23123123
+
 
 
